@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: zvinless/gastby-starter-netlify-cms
+  repo: zvinless/gatsby-starter-netlify-cms
 
 media_folder: static/img
 public_folder: /img
